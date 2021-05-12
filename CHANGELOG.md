@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.1](https://github.com/B9Ingenieria/react-native-autocomplete-search/compare/v1.3.0...v1.3.1) (2021-05-12)
+
+
+### Bug Fixes
+
+* package.json & yarn.lock to reduce vulnerabilities ([961ed8b](https://github.com/B9Ingenieria/react-native-autocomplete-search/commit/961ed8b0661c12cc8c97a37adc09cec70d1ed14a))
+* package.json & yarn.lock to reduce vulnerabilities ([7cfe936](https://github.com/B9Ingenieria/react-native-autocomplete-search/commit/7cfe936f12772b80efa893adf00cd29fa3c7b27a))
+* upgrade @babel/preset-flow from 7.10.4 to 7.12.1 ([88ff85a](https://github.com/B9Ingenieria/react-native-autocomplete-search/commit/88ff85a303b5025129519d4b90c881d84531dc2c))
+
 ## [1.3.0](https://github.com/B9Ingenieria/react-native-autocomplete-search/compare/v1.2.3...v1.3.0) (2020-10-02)
 
 
